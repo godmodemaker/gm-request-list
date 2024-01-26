@@ -1,13 +1,3 @@
 {
-  "requests": [
-    {
-      "game_name": "Insurgence",
-      "request_count": 3,
-      "user_ids": [
-        694927945252208670,
-        694927945252208670,
-        "694927945252208670"
-      ]
-    }
-  ]
+  "requests": []
 }
