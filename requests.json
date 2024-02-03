@@ -1,6 +1,14 @@
 {
   "requests": [
     {
+      "game_name": "Pokemon Empire v10.5",
+      "request_count": 2,
+      "user_ids": [
+        "871500116094226504",
+        "244816213903933440"
+      ]
+    },
+    {
       "game_name": "Pokemon Soulstones",
       "request_count": 1,
       "user_ids": [
@@ -47,13 +55,6 @@
       "request_count": 1,
       "user_ids": [
         "1126141497042018395"
-      ]
-    },
-    {
-      "game_name": "Pokemon Empire v10.5",
-      "request_count": 1,
-      "user_ids": [
-        "871500116094226504"
       ]
     }
   ]
