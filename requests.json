@@ -2,10 +2,11 @@
   "requests": [
     {
       "game_name": "Pokemon Empire v10.5",
-      "request_count": 2,
+      "request_count": 3,
       "user_ids": [
         "871500116094226504",
-        "244816213903933440"
+        "244816213903933440",
+        "615317605476991126"
       ]
     },
     {
