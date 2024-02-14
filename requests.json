@@ -10,6 +10,14 @@
       ]
     },
     {
+      "game_name": "Pokemon Infinite Fusion 6.0.5",
+      "request_count": 2,
+      "user_ids": [
+        "592092741408784385",
+        "489538970464550942"
+      ]
+    },
+    {
       "game_name": "Pokemon Soulstones",
       "request_count": 1,
       "user_ids": [
@@ -84,13 +92,6 @@
       "request_count": 1,
       "user_ids": [
         "365504039305216001"
-      ]
-    },
-    {
-      "game_name": "Pokemon Infinite Fusion 6.0.5",
-      "request_count": 1,
-      "user_ids": [
-        "592092741408784385"
       ]
     }
   ]
